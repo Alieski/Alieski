@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Alieski, a computer engineering graduate with 8 years <br>of experience in web development. I'm a programming <br>teacher and researcher. I'm proficient in several programming<br> languages and backend/frontend technologies, and I'm <br>constantly learning and practicing new technologies.
+Hi, I'm Alieski, a computer engineering graduate with 8 years of experience in web development. I'm a programming teacher and researcher. I'm proficient in several programming languages and backend/frontend technologies, and I'm constantly learning and practicing new technologies.
 
 
 ## 🌐 Socials:
